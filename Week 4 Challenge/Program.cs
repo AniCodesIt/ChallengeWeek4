@@ -13,8 +13,6 @@ namespace Week_4_Challenge
             Cat cat = new Cat();
             Dolphin dolphin = new Dolphin();
             Dodo dodo = new Dodo();
-
-
         }
     }
     public abstract class Animal
@@ -163,12 +161,6 @@ namespace Week_4_Challenge
             Console.WriteLine("Sqwack!");
         }
     }
-
-
-
-
-
-
 }
 
 
